@@ -1,4 +1,4 @@
-# 📚 Blog Simples com Django
+#  Blog Simples com Django
 
 ## 📝 Descrição do Projeto
 
